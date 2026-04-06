@@ -1,20 +1,16 @@
-# **Workshop Booking**
+# React + Vite
 
-> This website is for coordinators to book a workshop(s), they can book a workshop based on instructors posts or can propose a workshop date based on their convenience.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+Currently, two official plugins are available:
 
-### Features
-* Statistics
-    1. Instructors Only
-        * Monthly Workshop Count
-        * Instructor/Coordinator Profile stats
-        * Upcoming Workshops
-        * View/Post comments on Coordinator's Profile
-    2. Open to All
-        * Workshops taken over Map of India
-        * Pie chart based on Total Workshops taken to Type of Workshops.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-* Workshop Related Features
-    > Instructors can Accept, Reject or Delete workshops based on their preference, also they can postpone a workshop based on coordinators request.
+## React Compiler
 
-__NOTE__: Check docs/Getting_Started.md for more info.
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
