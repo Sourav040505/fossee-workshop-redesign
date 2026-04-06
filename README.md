@@ -1,4 +1,4 @@
-# FOSSEE Workshop Portal. Submission by Anirudh
+# FOSSEE Workshop Portal. Submission by Sourav
 
 I worked on the FOSSEE Python Screening Task. I did not just fix the CSS. I rebuilt the interface to make it feel like a dashboard that a coordinator would want to use every day. The FOSSEE Workshop Portal is now very user friendly.
 
