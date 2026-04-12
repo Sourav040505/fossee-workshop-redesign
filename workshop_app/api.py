@@ -1,3 +1,8 @@
+/**
+ * Copyright (c) 2026 Sourav
+ * Project: FOSSEE Workshop Portal Rebuild
+ * Description: High-performance dashboard with Django Ninja & React Vite.
+ */
 from ninja import NinjaAPI, Schema
 from django.contrib.auth.models import User
 from .models import Workshop, WorkshopType, Profile
