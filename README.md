@@ -62,6 +62,14 @@ I added a security tab to the FOSSEE Workshop Portal.
 
 ---
 
+## 🛡️ License & Copyright
+This project was developed by **SouravGoswami** as part of the FOSSEE Python Screening Task. 
+The original UI and logic enhancements (Glassmorphism, Mobile-first navigation, 
+and Django Ninja integration) are the intellectual property of the author. 
+Distributed under the MIT License.
+
+---
+
 ## Final Thoughts
 
 I did not just move buttons around. I made the FOSSEE Workshop Portal feel fast and secure. I am proud of how the FOSSEE Workshop Portal handles data without crashing. The FOSSEE Workshop Portal is ready, for the future.
